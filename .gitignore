@@ -1,0 +1,40 @@
+# Ignorar archivos temporales de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar todos los archivos de salida en los notebooks
+*.out
+*.log
+
+# Ignorar el historial de Jupyter
+.jupyter/
+
+# Ignorar las configuraciones de VS Code (si estás usando VS Code)
+.vscode/
+
+# Ignorar el entorno virtual de Python
+venv/
+env/
+ENV/
+
+# Ignorar archivos creados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.so
+*.dll
+*.a
+*.o
+
+# Ignorar configuraciones de MacOS y Linux
+.DS_Store
+*.swp
+
+# Ignorar archivos de salida de Plotly (si guardas gráficos)
+*.html
+*.json
+
+# Ignorar salidas no deseadas de archivos de Jupyter
+*.checkpoint.ipynb
