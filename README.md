@@ -13,7 +13,7 @@ Para ejecutar los notebooks en este proyecto, es recomendable utilizar un entorn
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/mi_proyecto.git
+git clone https://github.com/Zhanya001/fund_IA_Master
 cd mi_proyecto
 ```
 ### 2. Crear un entorno virtual (opcional pero recomendado)
