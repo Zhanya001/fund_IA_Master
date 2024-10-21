@@ -113,5 +113,5 @@ El archivo `.gitignore` está configurado para ignorar archivos innecesarios que
 - Checkpoints de Jupyter (`.ipynb_checkpoints/`)
 
 
-Contacto
+## Contacto
 Si tienes preguntas o deseas más información, puedes contactarme a través de [LinkedIn: Ariet Michal](https://www.linkedin.com/in/ariet-michal)
